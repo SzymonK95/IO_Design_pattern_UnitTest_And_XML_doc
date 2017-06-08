@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Decorator</name>
+    </assembly>
+    <members>
+        <member name="T:Decorator.Samochod">
+            <summary>
+            Podstawowy obiekt, nieudekorowany
+            </summary>
+        </member>
+        <member name="T:Decorator.Dekorator">
+            <summary>
+            Dekorator dla obiektu Samochod
+            </summary>
+        </member>
+        <member name="T:Decorator.Mercedes">
+            <summary>
+            Klasa dziedziczaca z Samochod
+            </summary>
+        </member>
+        <member name="T:Decorator.Ford">
+            <summary>
+            Klasa dziedziczaca z Samochod
+            </summary>
+        </member>
+        <member name="T:Decorator.Klimatyzacja">
+            <summary>
+            Klasa dziedziczaca z Dekorator
+            </summary>
+        </member>
+        <member name="T:Decorator.OponyZimowe">
+            <summary>
+            Klasa dziedziczaca z Dekorator
+            </summary>
+        </member>
+        <member name="T:Decorator.Decorator">
+            <summary>
+            Klasa zawierająca funkcje Main
+            </summary>
+        </member>
+    </members>
+</doc>

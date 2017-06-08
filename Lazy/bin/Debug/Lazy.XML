@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lazy</name>
+    </assembly>
+    <members>
+        <member name="T:Lazy.LazyClass">
+            <summary>
+            LazyClass posiada zmienna Value
+            </summary>
+        </member>
+        <member name="T:Lazy.CustomLazyClass">
+            <summary>
+            CustomLazyClass posiada zmienna _Value inicjalizowaną tuż przed uzyciem
+            </summary>
+        </member>
+        <member name="T:Lazy.Lazy">
+            <summary>
+            Klasa zawierająca funkcje Main
+            </summary>
+        </member>
+    </members>
+</doc>

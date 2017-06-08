@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Strategy</name>
+    </assembly>
+    <members>
+        <member name="T:Strategy.Praca">
+            <summary>
+            Interface wymagający implementacji funkcji pracuj
+            </summary>
+        </member>
+        <member name="T:Strategy.Dojazd">
+            <summary>
+            Interface wymagający implementacji funkcji dojazd
+            </summary>
+        </member>
+        <member name="T:Strategy.SpedzanieWolnegoCzasu">
+            <summary>
+            Interface wymagający implementacji funkcji spedzajWolnyCzas
+            </summary>
+        </member>
+        <member name="T:Strategy.TestujeSamochodow">
+            <summary>
+            Klasa implementacji funkcje pracuj
+            </summary>
+        </member>
+        <member name="T:Strategy.MalujeSamochod">
+            <summary>
+            Klasa implementacji funkcje pracuj
+            </summary>
+        </member>
+        <member name="T:Strategy.MontujeSilnik">
+            <summary>
+            Klasa implementacji funkcje pracuj
+            </summary>
+        </member>
+        <member name="T:Strategy.Samochod">
+            <summary>
+            Klasa implementacji funkcje dojazd
+            </summary>
+        </member>
+        <member name="T:Strategy.Rower">
+            <summary>
+            Klasa implementacji funkcje dojazd
+            </summary>
+        </member>
+        <member name="T:Strategy.Silownia">
+            <summary>
+            Klasa implementacji funkcje spedzajWolnyCzas
+            </summary>
+        </member>
+        <member name="T:Strategy.LiteraturaPopularnoNaukowa">
+            <summary>
+            Klasa implementacji funkcje spedzajWolnyCzas
+            </summary>
+        </member>
+        <member name="T:Strategy.GraKomputerowa">
+            <summary>
+            Klasa implementacji funkcje spedzajWolnyCzas
+            </summary>
+        </member>
+        <member name="T:Strategy.Pracownik">
+            <summary>
+            Klasa ustalająca kontekst
+            </summary>
+        </member>
+        <member name="T:Strategy.Strategy">
+            <summary>
+            Klasa posiadająca funkcje Main
+            </summary>
+        </member>
+    </members>
+</doc>

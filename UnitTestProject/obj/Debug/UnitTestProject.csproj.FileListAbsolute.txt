@@ -1,0 +1,42 @@
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\UnitTestProject.dll
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\UnitTestProject.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Builder.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Decorator.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\FactoryMethod.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Lazy.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Strategy.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Builder.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Decorator.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\FactoryMethod.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Lazy.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Strategy.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\obj\Debug\UnitTestProject.dll
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\obj\Debug\UnitTestProject.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\UnitTestProject.XML
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Builder.xml
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Decorator.xml
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\FactoryMethod.xml
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Lazy.xml
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\UnitTestProject\bin\Debug\Strategy.xml
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\UnitTestProject.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Builder.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Decorator.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\FactoryMethod.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Lazy.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Strategy.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Builder.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Builder.xml
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Decorator.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Decorator.xml
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\FactoryMethod.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\FactoryMethod.xml
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Lazy.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Lazy.xml
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Strategy.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\bin\Debug\Strategy.xml
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\UnitTestProject\obj\Debug\UnitTestProject.pdb

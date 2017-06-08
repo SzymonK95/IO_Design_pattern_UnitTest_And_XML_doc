@@ -1,0 +1,13 @@
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Decorator\bin\Debug\Decorator.exe.config
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Decorator\bin\Debug\Decorator.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Decorator\bin\Debug\Decorator.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Decorator\obj\Debug\Decorator.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Decorator\obj\Debug\Decorator.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Decorator\bin\Debug\Decorator.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Decorator\bin\Debug\Decorator.exe.config
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Decorator\bin\Debug\Decorator.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Decorator\bin\Debug\Decorator.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Decorator\bin\Debug\Decorator.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Decorator\obj\Debug\Decorator.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Decorator\obj\Debug\Decorator.pdb

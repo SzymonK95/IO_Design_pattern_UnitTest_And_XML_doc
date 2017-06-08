@@ -1,0 +1,5 @@
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Composite\bin\Debug\Composite.exe.config
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Composite\bin\Debug\Composite.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Composite\bin\Debug\Composite.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Composite\obj\Debug\Composite.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Composite\obj\Debug\Composite.pdb

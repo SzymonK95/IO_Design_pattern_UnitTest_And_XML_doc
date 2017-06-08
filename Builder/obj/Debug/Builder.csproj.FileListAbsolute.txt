@@ -1,0 +1,12 @@
+d:\users\szymon\documents\visual studio 2013\Projects\Builder\Builder\bin\Debug\Builder.exe.config
+d:\users\szymon\documents\visual studio 2013\Projects\Builder\Builder\bin\Debug\Builder.exe
+d:\users\szymon\documents\visual studio 2013\Projects\Builder\Builder\bin\Debug\Builder.pdb
+d:\users\szymon\documents\visual studio 2013\Projects\Builder\Builder\obj\Debug\Builder.exe
+d:\users\szymon\documents\visual studio 2013\Projects\Builder\Builder\obj\Debug\Builder.pdb
+d:\users\szymon\documents\visual studio 2013\Projects\Builder\Builder\bin\Debug\Builder.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Builder\bin\Debug\Builder.exe.config
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Builder\bin\Debug\Builder.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Builder\bin\Debug\Builder.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Builder\bin\Debug\Builder.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Builder\obj\Debug\Builder.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Builder\obj\Debug\Builder.pdb

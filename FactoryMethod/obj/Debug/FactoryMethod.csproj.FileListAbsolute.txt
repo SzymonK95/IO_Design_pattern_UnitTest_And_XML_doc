@@ -1,0 +1,13 @@
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\FactoryMethod\bin\Debug\FactoryMethod.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\FactoryMethod\bin\Debug\FactoryMethod.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\FactoryMethod\obj\Debug\FactoryMethod.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\FactoryMethod\obj\Debug\FactoryMethod.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\FactoryMethod\bin\Debug\FactoryMethod.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\FactoryMethod\bin\Debug\FactoryMethod.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\FactoryMethod\obj\Debug\FactoryMethod.pdb

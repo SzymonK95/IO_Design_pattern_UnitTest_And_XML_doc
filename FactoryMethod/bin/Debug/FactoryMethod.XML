@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FactoryMethod</name>
+    </assembly>
+    <members>
+        <member name="T:FactoryMethod.Samochod">
+            <summary>
+            Ogolny produkt
+            </summary>
+        </member>
+        <member name="T:FactoryMethod.Osobowy">
+            <summary>
+            Produkt sprecyzowany 1
+            </summary>
+        </member>
+        <member name="T:FactoryMethod.Terenowy">
+            <summary>
+            Produkt sprecyzowany 2
+            </summary>
+        </member>
+        <member name="T:FactoryMethod.Sportowy">
+            <summary>
+            Produkt sprecyzowany 3
+            </summary>
+        </member>
+        <member name="T:FactoryMethod.ProducentSamochodow">
+            <summary>
+            Producent tworzący obiekty na podstawie parametru about
+            </summary>
+        </member>
+        <member name="T:FactoryMethod.FactoryMethod">
+            <summary>
+            Klasa zawierająca funkcje Main
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UnitTestProject</name>
+    </assembly>
+    <members>
+        <member name="M:UnitTestProject.UnitTest.TestMethod_Builder">
+            <summary>
+            TestMethod_Builder testuje poprwaność nazwy obiekt Mustang_3_0_GT_Czarny
+            </summary>
+        </member>
+        <member name="M:UnitTestProject.UnitTest.TestMethod_Decorator">
+            <summary>
+            TestMethod_Decorator testuje poprawnosc ceny Mercedesa bez i z dodatkami
+            </summary>
+        </member>
+        <member name="M:UnitTestProject.UnitTest.TestMethod_FactoryMethod">
+            <summary>
+            TestMethod_FactoryMethod testuje poprawnosc opisu stworzonego obiektu
+            </summary>
+        </member>
+        <member name="M:UnitTestProject.UnitTest.TestMethod_Strategy">
+            <summary>
+            TestMethod_Strategy testuje poprawnosc wywolywania roznych algorytmow dla roznych kontekstow
+            </summary>
+        </member>
+        <member name="M:UnitTestProject.UnitTest.TestMethod_Lazy">
+            <summary>
+            TestMethod_Lazy testuje czy wygenerowane vartosci w sumnie sa wieksze niz dana wartosc 
+            </summary>
+        </member>
+    </members>
+</doc>

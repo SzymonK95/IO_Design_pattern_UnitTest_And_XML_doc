@@ -1,0 +1,13 @@
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Strategy\bin\Debug\Strategy.exe.config
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Strategy\bin\Debug\Strategy.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Strategy\bin\Debug\Strategy.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Strategy\obj\Debug\Strategy.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Strategy\obj\Debug\Strategy.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Strategy\bin\Debug\Strategy.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Strategy\bin\Debug\Strategy.exe.config
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Strategy\bin\Debug\Strategy.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Strategy\bin\Debug\Strategy.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Strategy\bin\Debug\Strategy.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Strategy\obj\Debug\Strategy.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Strategy\obj\Debug\Strategy.pdb

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Builder</name>
+    </assembly>
+    <members>
+        <member name="M:Builder.Program.Main(System.String[])">
+            <summary>
+            Funkcja Main wywoluje kolejno funkcje oraz wyświetla wyniki
+            </summary>
+            <param name="args">Standardowy zapis funkcji Main z parametrem args</param>
+        </member>
+        <member name="T:Builder.Program.Samochod">
+            <summary>
+            Klasa samochod posiada metody z których korzysta builder
+            </summary>
+        </member>
+        <member name="T:Builder.Program.Builder">
+            <summary>
+            Glowny interface
+            </summary>
+        </member>
+        <member name="T:Builder.Program.Mustang_3_0_GT_Czarny">
+            <summary>
+            Mustang_3_0_GT_Czarny implementuje inteface Builder dzieki czemu precyzujemy wartości obiektu
+            </summary>
+        </member>
+        <member name="T:Builder.Program.Focus_2_0_Niebieski">
+            <summary>
+            Focus_2_0_Niebieski implementuje inteface Builder dzieki czemu precyzujemy wartości obiektu
+            </summary>
+        </member>
+        <member name="T:Builder.Program.Director">
+            <summary>
+            Klasa zlecająca builderom zbudowanie obiektu
+            </summary>
+        </member>
+    </members>
+</doc>

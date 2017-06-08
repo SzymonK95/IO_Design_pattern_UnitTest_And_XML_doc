@@ -1,0 +1,12 @@
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Lazy\bin\Debug\Lazy.exe.config
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Lazy\bin\Debug\Lazy.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Lazy\bin\Debug\Lazy.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Lazy\obj\Debug\Lazy.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Lazy\obj\Debug\Lazy.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Builder\Lazy\bin\Debug\Lazy.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Lazy\bin\Debug\Lazy.exe.config
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Lazy\bin\Debug\Lazy.XML
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Lazy\bin\Debug\Lazy.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Lazy\bin\Debug\Lazy.pdb
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Lazy\obj\Debug\Lazy.exe
+D:\Users\Szymon\Documents\Visual Studio 2013\Projects\Wzorce projektowe\Lazy\obj\Debug\Lazy.pdb
